@@ -1,4 +1,4 @@
-package com.ghizzoniandrea.quzhiweather;
+package com.shangxiazuoyou.quzhiweather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.ghizzoniandrea.quzhiweather;
+package com.shangxiazuoyou.quzhiweather;
 
 import org.junit.Test;
 
